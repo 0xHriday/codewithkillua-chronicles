@@ -14,6 +14,8 @@ If you’re looking to start your journey in computer science and competitive pr
 
 But if you’re particularly interested in the fascinating world of blockchain technology, this is a repo you can’t afford to miss. Here, you’ll find all the information you need to become a competent blockchain developer, web3 developer, smart contract auditor, or blockchain security engineer. Embrace the challenges and opportunities ahead, and let this guide help you on your way to becoming a worthy developer in this exciting field.
 
+<b>RedirectMeTo</b> - [Medium](https://0xhriday.medium.com/c%E1%B4%8F%E1%B4%85%E1%B4%87w%C9%AA%E1%B4%9B%CA%9Ck%C9%AA%CA%9F%CA%9F%E1%B4%9C%E1%B4%80s-chronicles-47a095231f04)  or [Hashnode](https://codewithkillua.hashnode.dev/cwks-chronicles)
+
 -   [What is it like to be a Programmer?](https://0xhriday.medium.com/what-is-it-like-being-a-programmer-6851367138a6)
 -   [Guide to Web3/Blockchain Development.](https://0xhriday.medium.com/ultimate-roadmap-to-blockchain-development-table-of-contents-ed1adc1e250c)
 -   [Guide to Smart Contract Auditing & Blockchain Security.](https://0xhriday.medium.com/getting-started-with-blockchain-security-beginners-to-advanced-c68760e304cd)
