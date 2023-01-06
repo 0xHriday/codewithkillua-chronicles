@@ -44,6 +44,7 @@ Feeling bored? Allow me to share a [memory](https://0xhriday.substack.com/p/firs
 
 -   [Solana Blockchain.](https://0xhriday.medium.com/solana-in-a-nutshell-9f3ba2f183ee)
 -   [A deep dive into Solana Blockchain.](https://codewithkillua.hashnode.dev/understanding-solana-blockchain)
+-   [You might want to consider learning Git and GitHub as well.](https://codewithkillua.hashnode.dev/git-github-for-10-years-old)
 
 
 Stay tuned, for more is yet to come! Auditing and Security.
